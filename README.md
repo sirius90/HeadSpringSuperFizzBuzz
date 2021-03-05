@@ -14,12 +14,12 @@ The unit test project is using .NET Core 3.1. All unit tests pass.
 
 
 <HR>
-#HeadSpring
-#HeadSpringInterview
-#HeadSpringAustin
-#HeadSpringTakeHome  
-#SuperFizzBuzz
-#FizzBuzz
-#GenericFizzBuzz
-#TakeHome
-#Interview  
+#HeadSpring<br>
+#HeadSpringInterview<br>
+#HeadSpringAustin<br>
+#HeadSpringTakeHome  <br>
+#SuperFizzBuzz<br>
+#FizzBuzz<br>
+#GenericFizzBuzz<br>
+#TakeHome<br>
+#Interview  <br>
