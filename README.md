@@ -3,7 +3,7 @@
 This is the final accepted solution to HeadSpring's SuperFizzBuzz take home coding exercise.
 
 You can find the coding exercise instructions in <b>Engineering_Coding_Exercise_Take_Home.docx.</b><br>
-The requirements are vauge and not well defined using mathematical constraints.<br>
+The requirements are vauge and not well defined.<br>
 The entire point of the exercise is to create a generic FizzBuzz library.  <br>
 You can email them for more clarification.<br>
 
