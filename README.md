@@ -3,9 +3,9 @@
 This is the final solution to HeadSpring's SuperFizzBuzz take home coding exercise.
 
 You can find the coding exercise instructions in Engineering_Coding_Exercise_Take_Home.docx.<br>
-The requirements are vauge and not really well defined in mathematical constraining terms.
-The entire point of the exercise is to create a generic FizzBuzz library.  
-You can email them for more clarification.
+The requirements are vauge and not really well defined in mathematical constraining terms.<br>
+The entire point of the exercise is to create a generic FizzBuzz library.  <br>
+You can email them for more clarification.<br>
 
 There is an additional questionare for the Senior Consultant position found in Engineering_Coding_Exercise_Take_Home.docx.<br>
 
